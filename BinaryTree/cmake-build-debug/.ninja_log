@@ -1,0 +1,6 @@
+# ninja log v5
+2	310	7028630925471466	CMakeFiles/ProjectCPP.dir/main.cpp.obj	dd02a4c48c0c0397
+310	410	7028630926408939	ProjectCPP.exe	dbc71473e3bf5a94
+1	129	7028635533670699	build.ninja	4f3c300a33ba8da3
+4	294	7028635594746256	CMakeFiles/ProjectCPP.dir/main.cpp.obj	672ed396ec59c21e
+295	378	7028635595528045	ProjectCPP.exe	dbc71473e3bf5a94
